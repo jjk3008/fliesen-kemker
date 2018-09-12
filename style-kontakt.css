@@ -1,0 +1,112 @@
+.header-size {
+    font-size: 2.75rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+.p-container {
+    padding-top: 2px;
+}
+
+.container-content {
+    padding-bottom: 15px;
+    padding-top: 15px
+}
+
+.container-content-k {
+    padding-bottom: 15px;
+    padding-top: 0.1px;
+}
+
+.container-p {
+    margin-top: 15px
+}
+
+.section .title {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.p-size {
+    font-size: 1.4rem;
+}
+.lead {
+    font-size: 1.6rem;
+}
+.lead .small {
+    font-size: 1rem;
+}
+.zsm {
+    margin-bottom: -8px;
+    margin-top: 2px;
+}
+
+.auseinander {
+    margin-top: 20px;
+}
+
+.center {
+    text-align: center
+}
+
+.h6-size {
+    padding-top: 8px;
+    font-size: 1.4rem;
+}
+/***** Box *****/
+
+.box {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box .title {
+    font-size: 2rem;
+}
+
+.form-control {
+  background-image: linear-gradient(#00a9ff, #00a9fc), linear-gradient(rgb(210, 210, 210), rgb(211, 211, 211));   background-size: 0 2px, 100% 1px;
+  background-size: 0 2px, 100% 1px;
+  background-color: transparent;
+  float: none;
+  font-weight: 400;
+  border-width: Opx;
+  border-style: initial; 
+  border-color: initial; 
+  border-image: initial; 
+  background-repeat: no-repeat;
+  background-position: left bottom, center calc(100% - 1px);
+  transition: background 0.3s ease-out;
+  border-radius: 0;
+  font-size: 14px;
+  line-height: 1.42;
+  padding: 7px 0;
+}
+
+.form-control:focus {
+  background-image: linear-gradient(#00a9ff, #00a9fc), linear-gradient(rgb(210, 210, 210), rgb(211, 211, 211));   background-size: 100% 2px, 100% 1px;
+  background-size: 100% 2px, 100% 1px;
+  background-color: transparent;
+  box-shadow: none; 
+  transition-duration: 0.3;
+  outline: none;
+}
+
+
+.header-size-box {
+    font-size: 2.75rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.box:hover {
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.16);
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.16);
+}
+
+
